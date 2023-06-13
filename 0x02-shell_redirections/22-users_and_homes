@@ -1,0 +1,2 @@
+#!/bin/basj
+cur -d "." -f,6 /etc/passwd | sort
